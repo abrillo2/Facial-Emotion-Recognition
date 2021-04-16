@@ -12,5 +12,4 @@ pip install kwargs
 pip install cinit 
 
 Data set for training and testing =>
-
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
