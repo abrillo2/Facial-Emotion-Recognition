@@ -1,15 +1,15 @@
 # Facial-Emotion-Recognition
 
-dependencies =>
+dependencies =><br />
 
-pip install opencv-python
-pip install tensorflow
-pip install numpy
-pip install pandas
-pip install keras
-pip install adam
-pip install kwargs 
-pip install cinit 
+pip install opencv-python<br />
+pip install tensorflow<br />
+pip install numpy<br />
+pip install pandas<br />
+pip install keras<br />
+pip install adam<br />
+pip install kwargs <br />
+pip install cinit <br />
 
-Data set for training and testing =>
+Data set for training and testing => <br />
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
